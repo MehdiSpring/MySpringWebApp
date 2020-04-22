@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Spring5WebAppApplication {
 
 	public static void main(String[] args) {
-		//this is a psring boot project
+		//this is a spring boot project
 		SpringApplication.run(Spring5WebAppApplication.class, args);
 	}
 
